@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-09T14:57:04 IST" name="Suite" finished-at="2024-07-09T14:57:25 IST" duration-ms="20411">
+    <groups>
+    </groups>
+    <test started-at="2024-07-09T14:57:04 IST" name="Test" finished-at="2024-07-09T14:57:25 IST" duration-ms="20411">
+      <class name="com.example.myapp.tests.TC02">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.example.myapp.tests.TC02@1caa0244]" started-at="2024-07-09T14:57:19 IST" name="startReport" finished-at="2024-07-09T14:57:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.myapp.tests.TC02@1caa0244]" started-at="2024-07-09T14:57:19 IST" name="setUp" finished-at="2024-07-09T14:57:19 IST" duration-ms="848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testcase2(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.example.myapp.tests.TC02@1caa0244]" started-at="2024-07-09T14:57:19 IST" name="testcase2" data-provider="TestData" finished-at="2024-07-09T14:57:24 IST" duration-ms="4931" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testcase2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ankita]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ap123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.myapp.tests.TC02@1caa0244]" started-at="2024-07-09T14:57:24 IST" name="tearDown" finished-at="2024-07-09T14:57:25 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.example.myapp.tests.TC02@1caa0244]" started-at="2024-07-09T14:57:25 IST" name="endReport" finished-at="2024-07-09T14:57:25 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.example.myapp.tests.TC02 -->
+      <class name="com.example.myapp.tests.TC01">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.example.myapp.tests.TC01@4681c175]" started-at="2024-07-09T14:57:04 IST" name="startReport" finished-at="2024-07-09T14:57:05 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.myapp.tests.TC01@4681c175]" started-at="2024-07-09T14:57:06 IST" name="setUp" finished-at="2024-07-09T14:57:07 IST" duration-ms="1837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testcase1(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.example.myapp.tests.TC01@4681c175]" started-at="2024-07-09T14:57:07 IST" name="testcase1" data-provider="TestData" finished-at="2024-07-09T14:57:18 IST" duration-ms="10492" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testcase1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Subrata]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sm123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.myapp.tests.TC01@4681c175]" started-at="2024-07-09T14:57:18 IST" name="tearDown" finished-at="2024-07-09T14:57:18 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.example.myapp.tests.TC01@4681c175]" started-at="2024-07-09T14:57:18 IST" name="endReport" finished-at="2024-07-09T14:57:19 IST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.example.myapp.tests.TC01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
